@@ -20,7 +20,7 @@ const client = new Client({
 //              הגדרות
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-const TOKEN            = process.env.TOKEN;
+const TOKEN = process.env.TOKEN;
 const CLIENT_ID        = '1459985778519183636';
 const ALLOWED_USERS    = ['1425695670475685998'];
 const HELPER_ROLE_NAME = 'helper';
