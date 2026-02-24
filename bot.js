@@ -570,4 +570,4 @@ client.on(Events.InteractionCreate, async interaction => {
     }
 });
 
-client.login('MTQ1OTk4NTc3ODUxOTE4MzYzNg.GMvSwj.7KN4CCtT-RgysmkZ883T_mbEIYYt9W_lQ0qwls');
+client.login(process.env.DISCORD_TOKEN);
